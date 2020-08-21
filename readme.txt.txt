@@ -1,1 +1,0 @@
-This project is intended to automate theta-based options trading strategies.
