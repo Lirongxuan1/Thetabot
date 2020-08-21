@@ -1,0 +1,6 @@
+1 Get usable data.
+2 Build predictive models
+3 Validate models
+4 Implement
+5 ???
+6 profit
