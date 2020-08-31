@@ -8,34 +8,20 @@ import csv
 from yahoo_fin import stock_info as si
 from yahoo_fin import options
 from time import gmtime, strftime
-dow_tickers = si.tickers_dow()
-nasdaq_tickers = si.tickers_nasdaq()
-other_tickers = si.tickers_other()
-spy_tickers = si.tickers_sp500()
+import pickle
+
 # scrape the options data for all tickers
 all_data = {}
-for ticker in dow_tickers:
-    try:
-        all_data[ticker] = options.get_options_chain(ticker)
-    except Exception:
-        print(ticker + " failed")
-for ticker in nasdaq_tickers:
-    try:
-        all_data[ticker] = options.get_options_chain(ticker)
-    except Exception:
-        print(ticker + " failed")
-for ticker in spy_tickers:
-    try:
-        all_data[ticker] = options.get_options_chain(ticker)
-    except Exception:
-        print(ticker + " failed")
-for ticker in other_tickers:
+tickers = pickle.load(open('list.pkl', 'rb'))
+# scrape the options data for each Dow ticker
+
+
+for ticker in tickers:
     try:
         all_data[ticker] = options.get_options_chain(ticker)
     except Exception:
         print(ticker + " failed")
         
-import pickle
 with open(("%Y-%m-%d%H:%M:%S", gmtime()) +'.pkl', 'wb') as handle:
     pickle.dump(all_data, handle, protocol=pickle.HIGHEST_PROTOCOL)
 with open(strftime("%Y-%m-%d%H:%M:%S", gmtime()) +'.csv', 'w') as csv_file:  
