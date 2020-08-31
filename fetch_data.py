@@ -18,3 +18,4 @@ for ticker in tickers:
         ticker_df.to_csv('options_data.csv', mode="a", header=False, index=False)
     except Exception:
         print(ticker + " failed")
+print('done')
