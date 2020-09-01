@@ -1,113 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d216980-4ea7-4c59-8591-9bc4c7225799" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass-1.11.4.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass-1.11.4.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass-1.11.4.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass-1.11.4.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass-1.11.4.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass-1.11.4.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass/project.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass/single_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.8/site-packages/pandass/words2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ticker.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ticker.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tickers.csv" afterDir="false" />
-    </list>
+    <list default="true" id="d27ffe7a-0246-4879-8af0-b002c2c9a7d2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="38ea532b-e546-4bae-a7cf-0e245998ece5" />
-  <component name="ProjectId" id="1gfFK60613WyOOA9EkSkld40UEE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="371" />
+    <option name="y" value="236" />
+    <option name="width" value="2255" />
+    <option name="height" value="1436" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d216980-4ea7-4c59-8591-9bc4c7225799" name="Default Changelist" comment="" />
-      <created>1598497678413</created>
+      <changelist id="d27ffe7a-0246-4879-8af0-b002c2c9a7d2" name="Default Changelist" comment="" />
+      <created>1598805889348</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598497678413</updated>
-      <workItem from="1598497683567" duration="289000" />
-      <workItem from="1598498384881" duration="88000" />
-      <workItem from="1598498616979" duration="242000" />
-      <workItem from="1598507354036" duration="42000" />
-      <workItem from="1598507690146" duration="12625000" />
-      <workItem from="1598550369580" duration="476000" />
+      <updated>1598805889348</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="ToolWindowManager">
+    <frame x="165" y="105" width="1002" height="638" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598548756312">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1598548756312" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/get_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
